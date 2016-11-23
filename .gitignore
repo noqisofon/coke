@@ -1,0 +1,19 @@
+# Emacs Temporary files
+*~
+
+# Emacs autosave files
+\#*#
+
+# Document directories
+/doc/
+
+# Compile result directories
+/bin/
+/lib/
+/libs/
+
+# Crystal cache directories
+/.crystal/
+
+# Shards directories
+/.shards/
