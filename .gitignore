@@ -17,3 +17,6 @@
 
 # Shards directories
 /.shards/
+
+# Others
+*.log
